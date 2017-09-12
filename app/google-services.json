@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "293022713356",
+    "firebase_url": "https://doctorplus-530.firebaseio.com",
+    "project_id": "doctorplus-530",
+    "storage_bucket": "doctorplus-530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293022713356:android:4a2f1f17d5c79b60",
+        "android_client_info": {
+          "package_name": "com.vikram.doctorplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293022713356-6e0cnrlbfh5pprsv8dp1d8r7fdid23ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikram.doctorplus",
+            "certificate_hash": "ebc1b43d4d7430457fc70f58ee8e55bf3e4d77d9"
+          }
+        },
+        {
+          "client_id": "293022713356-kqen4f4hn6ao94q0iroat9rfdnk373b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0v1plVqICPMD8twe09P30leXusTvlV1Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293022713356-kqen4f4hn6ao94q0iroat9rfdnk373b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
